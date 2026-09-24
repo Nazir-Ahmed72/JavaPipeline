@@ -3,8 +3,6 @@ public class Main {
         System.out.println("Hello from Jenkins CI/CD pipeline!");
 
         
-
-        
         System.out.println("Build triggered successfully by GitHub push.");
         
 
