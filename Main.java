@@ -6,7 +6,7 @@ public class Main {
 
         
         System.out.println("Build triggered successfully by GitHub push.");
-        System.out.println("Build triggered successfully by GitHub push.");
+        
 
         
     }
